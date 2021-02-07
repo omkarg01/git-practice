@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 pizza
 <<<<<<< HEAD
@@ -7,3 +8,8 @@ samosa pav
 =======
 >>>>>>> parent of 765e6d5... vada pav
 >>>>>>> parent of 97bb5d8... Revert "reverting to vada pav"
+=======
+pizza
+vada pav
+samosa pav
+>>>>>>> parent of d4e60de... all clean
