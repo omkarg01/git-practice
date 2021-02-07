@@ -1,6 +1,3 @@
 pizza
-<<<<<<< HEAD
 vada pav
 samosa pav
-=======
->>>>>>> parent of 765e6d5... vada pav
